@@ -41,15 +41,15 @@ For Feature Engineering We Used Decision Tree to Find Important Features that hu
 ## Modeling & PreProcessing
 
 We Used Both Linear and Non Linear Models and Variations of the same.
-Main Models Used are :
-SGD Regressor
-Ordinary Least Square Model
-Ridge Regressor
-Random Forest Regressor
-Catboost Regressor
-Bayesian Ridge Regressor
-KNN Regressor
-Dense Model
+Main Models Used are:
+,SGD Regressor
+,Ordinary Least Square Model
+,Ridge Regressor
+,Random Forest Regressor
+,Catboost Regressor
+,Bayesian Ridge Regressor
+,KNN Regressor
+,Dense Model.
 
 
 
